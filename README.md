@@ -23,5 +23,6 @@ The model provides insights into key factors affecting customer churn and helps 
 - Dataset: https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers/data
 - Seaborn: https://seaborn.pydata.org/tutorial/color_palettes.html
 - Scikit Learn: https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.StackingClassifier.html
+- Kurtosis: https://www.investopedia.com/terms/k/kurtosis.asp 
 
 
