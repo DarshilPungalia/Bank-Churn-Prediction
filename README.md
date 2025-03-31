@@ -12,9 +12,9 @@ The dataset consists of customer information, including:
 ## Methodology
 1. **Data Preprocessing**: Cleaning and handling missing values, encoding categorical variables, and normalizing numerical data.
 2. **Exploratory Data Analysis (EDA)**: Understanding the distribution of features and identifying key trends.
-3. **Feature Engineering**: Selecting relevant features for training the model.
-4. **Model Training**: Applying machine learning models such as Logistic Regression, Random Forest, or XGBoost to predict churn.
-5. **Evaluation**: Assessing model performance using accuracy, precision, recall, and F1-score.
+3. **Feature Engineering**: Selecting relevant features using PCA for training the model.
+4. **Model Training**: Using models such as Logistic Regression, Random Forest, XGBoost and combination of them for churn prediction.
+5. **Evaluation**: Assessing model performance using F1-score.
 
 ## Results
 The model provides insights into key factors affecting customer churn and helps businesses take proactive measures to retain customers. The final predictions and performance metrics are available in the notebook.
