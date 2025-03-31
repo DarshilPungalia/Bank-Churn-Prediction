@@ -19,3 +19,9 @@ The dataset consists of customer information, including:
 ## Results
 The model provides insights into key factors affecting customer churn and helps businesses take proactive measures to retain customers. The final predictions and performance metrics are available in the notebook.
 
+## References
+- Dataset: https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers/data
+- Seaborn: https://seaborn.pydata.org/tutorial/color_palettes.html
+- Scikit Learn: https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.StackingClassifier.html
+
+
